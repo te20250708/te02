@@ -13,6 +13,6 @@
 此外，分类和筛选功能能帮助用户快速找到自己感兴趣的内容。清晰的分类和有效的筛选条件让浏览更加高效。最后，平台的隐私保护也是关键，确保个人信息和数据不被泄露。
 选择一个安全、高清、更新及时的平台，能够提升观影体验并保护个人安全。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/te20250708/te02 ）</span>
 
 
